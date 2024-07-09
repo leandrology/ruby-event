@@ -5,7 +5,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/leandrology/ruby-events.git
+   git clone https://github.com/leandrology/ruby-event.git
 
 2. Install
 
